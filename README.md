@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blubaeri
+- 👋 Hi, I’m @evanlin-dev
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python and C++
 
