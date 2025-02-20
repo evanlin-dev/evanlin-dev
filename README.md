@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @evanlin-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python and C++
 
 <!---
 Blubaeri/Blubaeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
