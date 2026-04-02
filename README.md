@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER: Ndot Style Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=40&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=EVAN+LIN;SYSTEM+ARCHITECT;BUILDING+NOTHING." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=40&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=EVAN+LIN;SOFTWARE+ENGINEER;BUILDING+NOTHING." alt="Typing SVG" />
 
 <p align="center">
   <kbd>0x00_INITIALIZED</kbd> • <kbd>MINIMALISM</kbd> • <kbd>INDUSTRIAL_DESIGN</kbd>
@@ -16,7 +16,6 @@
 
 - 🌑 **STATUS:** `TECHNOLOGY_ASSOCIATE` @ [Healthfirst](https://healthfirst.org)
 - ☁️ **STACK:** `REACT` `TYPESCRIPT` `NODE.JS` `WEBGL` `AWS`
-- 📍 **ORIGIN:** `NEW_YORK_CITY`
 - 🌐 **LINK:** [PORTFOLIO.SYS](https://YOUR-PORTFOLIO-LINK.com)
 
 ---
