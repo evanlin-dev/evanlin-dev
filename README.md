@@ -44,7 +44,7 @@
 ### 04 _ ANALYTICS
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=evanlin-dev&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000&count_private=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanlin-dev&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=555555" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evanlin-dev&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=555555" alt="Top Languages" width="300" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=evanlin-dev&theme=transparent&hide_border=true&stroke=000000&ring=000000&fire=E42525&currStreakNum=000000" alt="Streak Stats" width="700" />
 </div>
