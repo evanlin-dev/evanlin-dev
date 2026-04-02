@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER: Ndot Style Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=EVAN+LIN;SOFTWARE+ENGINEER;BUILDING+NOTHING." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=40&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=EVAN+LIN;SOFTWARE+ENGINEER;BUILDING+NOTHING." alt="Typing SVG" />
 
 <p align="center">
-  <kbd>0x00_INITIALIZED</kbd> • <kbd>MINIMALISM</kbd> • <kbd>INDUSTRIAL_DESIGN</kbd>
+  <kbd>0x00_INITIALIZED</kbd> • <kbd>SOFTWARE_ENGINEER</kbd> • <kbd>SYSTEM_ONLINE</kbd>
 </p>
 
 ---
@@ -12,8 +12,6 @@
 </div>
 
 ### 01 _ SYSTEM.INFO
-> "Clarity over clutter. Technical honesty."
-
 - 🌑 **STATUS:** `TECHNOLOGY_ASSOCIATE` @ [Healthfirst](https://healthfirst.org)
 - ☁️ **STACK:** `REACT` `TYPESCRIPT` `NODE.JS` `WEBGL` `AWS`
 - 🌐 **LINK:** [PORTFOLIO.SYS](https://YOUR-PORTFOLIO-LINK.com)
@@ -21,11 +19,15 @@
 ---
 
 ### 02 _ ACTIVE_LOGS (EXPERIENCE)
+<div align="center">
+
 | ID | ENTITY | ROLE | STATUS |
 | :--- | :--- | :--- | :--- |
 | `0xHF-01` | **Healthfirst** | Technology Associate | `ACTIVE` |
 | `0xHF-00` | **Healthfirst** | Software Engineer Intern | `COMPLETED` |
 | `0xBNY` | **BNY Mellon** | Software Engineer Intern | `COMPLETED` |
+
+</div>
 
 ---
 
