@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER: Ndot Style Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=40&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=EVAN+LIN;SOFTWARE+ENGINEER;BUILDING+NOTHING." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=EVAN+LIN;SOFTWARE+ENGINEER;BUILDING+NOTHING." alt="Typing SVG" />
 
 <p align="center">
   <kbd>0x00_INITIALIZED</kbd> • <kbd>MINIMALISM</kbd> • <kbd>INDUSTRIAL_DESIGN</kbd>
@@ -43,11 +43,15 @@
 
 ### 04 _ ANALYTICS
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evanlin-dev&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000&count_private=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evanlin-dev&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=555555" alt="Top Languages" width="300" />
+  <!-- GitHub Stats with cache buster and explicit colors -->
+  <img src="https://github-readme-stats.vercel.app/api?username=evanlin-dev&show_icons=true&bg_color=ffffff&hide_border=true&title_color=000000&text_color=555555&icon_color=000000&count_private=true&v=1" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evanlin-dev&layout=compact&bg_color=ffffff&hide_border=true&title_color=000000&text_color=555555&v=1" alt="Top Languages" width="300" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evanlin-dev&theme=transparent&hide_border=true&stroke=000000&ring=000000&fire=E42525&currStreakNum=000000" alt="Streak Stats" width="700" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evanlin-dev&theme=transparent&hide_border=true&stroke=000000&ring=000000&fire=E42525&currStreakNum=000000&v=1" alt="Streak Stats" width="700" />
 </div>
+
+> [!TIP]
+> If stats fail to load ("Error Fetching Resource"), the public server may be rate-limited. For 100% uptime, [deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-) on Vercel.
 
 ---
 
@@ -61,11 +65,15 @@
 ---
 
 ### 06 _ CORE_SUBSYSTEMS
-| CATEGORY | CAPABILITIES |
-| :--- | :--- |
-| **LANGUAGES** | `PYTHON` `JAVASCRIPT` `HTML/CSS` `TYPESCRIPT` `JAVA` `C++` |
-| **FRAMEWORKS** | `REACT` `EXPRESS` `ANGULAR` `SPRING_BOOT` |
-| **TOOLS** | `GIT` `MONGODB` `AWS` (LAMBDA, S3, DYNAMODB) `LINUX` |
+
+**LANGUAGES**  
+![](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/HTML/CSS-000000?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/C++-000000?style=for-the-badge&logoColor=white)
+
+**FRAMEWORKS**  
+![](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/ANGULAR-000000?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/SPRING_BOOT-000000?style=for-the-badge&logoColor=white)
+
+**TOOLS**  
+![](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/AWS_LAMBDA-000000?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/API_GATEWAY-000000?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/S3-000000?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/DYNAMO_DB-000000?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logoColor=white)
 
 ---
 
