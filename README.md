@@ -34,10 +34,10 @@
 ### 03 _ SUBSYSTEMS (PROJECTS)
 <div align="center">
 
-| [ BLUEBERRY.SYS ] | [ CLONE.01 ] | [ ENGINE.X ] |
+| [ INKSYNC.SYS ] | [ POSEFORGE.SYS ] | [ PORT.LOG ] |
 | :--- | :--- | :--- |
-| Desktop Environment | Nothing.tech Reconstruction | Dot-Grid Shader Engine |
-| `TS` `REACT` `ZUSTAND` | `NEXT.JS` `GSAP` | `WEBGL` `THREE.JS` |
+| Real-time Collaboration | 3D Posing Solution | Technical Portfolio |
+| `REACT` `WEBSOCKETS` | `THREE.JS` `GSAP` | `REACT` `VITE` |
 
 </div>
 
