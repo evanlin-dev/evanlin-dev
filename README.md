@@ -59,9 +59,9 @@
 
 ### 05 _ CONNECT
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/PORTFOLIO-E42525?style=for-the-badge&logo=hyper&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/evanlin2912/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:evanlin2903@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/evanlin-devm"><img src="https://img.shields.io/badge/PORTFOLIO-E42525?style=for-the-badge&logo=hyper&logoColor=white" /></a>
 </p>
 
 ---
