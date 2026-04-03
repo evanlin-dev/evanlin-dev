@@ -52,9 +52,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=evanlin-dev&theme=transparent&hide_border=true&stroke=000000&ring=000000&fire=E42525&currStreakNum=000000&v=1" alt="Streak Stats" width="700" />
 </div>
 
-> [!TIP]
-> If stats fail to load ("Error Fetching Resource"), the public server may be rate-limited. For 100% uptime, [deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-) on Vercel.
-
 ---
 
 ### 05 _ CONNECT
